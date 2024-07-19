@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="try_update">Try Update</string>
+    <string name="restart">Restart</string>
+    <string name="update_downloaded">Update Downloaded</string>
+    <string name="update_cancelled">update Cancelled</string>
+    <string name="update_app_failed">Update App Failed</string>
+</resources>
